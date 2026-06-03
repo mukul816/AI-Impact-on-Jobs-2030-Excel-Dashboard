@@ -75,7 +75,7 @@ Business Intelligence Reporting
 
 Data Cleaning & Preparation
 
-# The dataset was prepared for analysis through the following steps:
+The dataset was prepared for analysis through the following steps:
 
 Removed duplicate records
 
@@ -97,7 +97,7 @@ Dashboard Components
 
 KPI Cards
 
-## The dashboard includes four key performance indicators:
+The dashboard includes four key performance indicators:
 
 KPI	Value
 
@@ -111,7 +111,7 @@ High-Risk Jobs	887
 
 Interactive Filters
 
-## Users can dynamically explore the dashboard using slicers for:
+Users can dynamically explore the dashboard using slicers for:
 
 Industry  
 Country  
@@ -119,7 +119,7 @@ Education Level
 Risk Category  
 Visualizations  
 
-## The dashboard contains:
+The dashboard contains:
 
 AI Risk by Industry  
 Job Growth by Industry  
