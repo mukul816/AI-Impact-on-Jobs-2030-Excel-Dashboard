@@ -28,52 +28,33 @@ Source: Kaggle
 
 The dataset contains information related to:
 
-Job Titles
-
-Industries
-
-Countries
-
-Education Levels
-
-Years of Experience
-
-Average Salary (USD)
-
-AI Replacement Risk
-
-Future Demand Score
-
-Job Growth Projections
-
-Work Hours
-
-Job Satisfaction Metrics
+Job Titles  
+Industries    
+Countries  
+Education Levels  
+Years of Experience  
+Average Salary (USD)  
+AI Replacement Risk  
+Future Demand Score  
+Job Growth Projections  
+Work Hours  
+Job Satisfaction Metrics  
 
 Dataset Size: 3,000 Records
 
 https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-market-in-2030
 
 ## Tools & Technologies
-Microsoft Excel
-
-Data Cleaning
-
-Data Preprocessing
-
-Pivot Tables
-
-Pivot Charts
-
-KPI Cards
-
-Interactive Slicers
-
-Dashboard Design
-
-Business Intelligence Reporting
-
-Data Cleaning & Preparation
+Microsoft Excel    
+Data Cleaning  
+Data Preprocessing  
+Pivot Tables  
+Pivot Charts  
+KPI Cards  
+Interactive Slicers  
+Dashboard Design  
+Business Intelligence Reporting  
+Data Cleaning & Preparation  
 
 ## The dataset was prepared for analysis through the following steps:
 
