@@ -1,7 +1,8 @@
 # AI-Impact-on-Jobs-2030-Excel-Dashboard
 ## Dashboard Preview
-![DashBoard Preview](Dashboard.png)
-Project Overview
+![AI Impact on Jobs 2030](Dashboard.png)
+
+##Project Overview
 
 Artificial Intelligence is rapidly transforming industries and redefining workforce requirements across the globe. This project analyzes the potential impact of AI on future employment using a dataset of 3,000 job records spanning multiple industries, occupations, education levels, and countries.
 
