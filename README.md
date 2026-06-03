@@ -15,10 +15,10 @@ This project demonstrates practical business intelligence and data analytics ski
 With increasing AI adoption, organizations face critical questions regarding the future of work:
 
 Which industries are most vulnerable to AI-driven automation?  
-Which occupations are likely to remain in demand?
-How will AI influence salary levels across professions?
-What percentage of jobs face high automation risk?
-Which industries are expected to grow despite technological disruption?
+Which occupations are likely to remain in demand?  
+How will AI influence salary levels across professions?  
+What percentage of jobs face high automation risk?  
+Which industries are expected to grow despite technological disruption?  
 
 The objective of this project is to transform raw employment data into actionable insights that support workforce planning, talent management, and strategic business decisions.
 
@@ -113,18 +113,18 @@ Interactive Filters
 
 ## Users can dynamically explore the dashboard using slicers for:
 
-Industry
-Country
-Education Level
-Risk Category
-Visualizations
+Industry  
+Country  
+Education Level  
+Risk Category  
+Visualizations  
 
 ## The dashboard contains:
 
-AI Risk by Industry
-Job Growth by Industry
-Salary by Job Title
-Risk Category Distribution
+AI Risk by Industry  
+Job Growth by Industry  
+Salary by Job Title  
+Risk Category Distribution  
 
 # Results and Insights
 ## Dashboard Overview
