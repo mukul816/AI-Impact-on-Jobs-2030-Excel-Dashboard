@@ -75,41 +75,28 @@ Business Intelligence Reporting
 
 Data Cleaning & Preparation
 
-The dataset was prepared for analysis through the following steps:
+## The dataset was prepared for analysis through the following steps:
 
-Removed duplicate records
+Removed duplicate records  
+Standardized categorical variables  
+Validated numerical values  
+Handled inconsistent formatting  
+Created derived analytical variables  
+Categorized jobs into AI Risk Levels  
+Categorized workforce demand segments  
+Prepared analysis-ready tables for dashboard reporting  
+Dashboard Components  
+KPI Cards  
 
-Standardized categorical variables
+## The dashboard includes four key performance indicators:
 
-Validated numerical values
+KPI	Value  
+Total Jobs Analyzed	3,000  
+Average AI Risk	50.3%  
+Average Salary	$1,266,417  
+High-Risk Jobs	887  
 
-Handled inconsistent formatting
-
-Created derived analytical variables
-
-Categorized jobs into AI Risk Levels
-
-Categorized workforce demand segments
-
-Prepared analysis-ready tables for dashboard reporting
-
-Dashboard Components
-
-KPI Cards
-
-The dashboard includes four key performance indicators:
-
-KPI	Value
-
-Total Jobs Analyzed	3,000
-
-Average AI Risk	50.3%
-
-Average Salary	$1,266,417
-
-High-Risk Jobs	887
-
-Interactive Filters
+## Interactive Filters
 
 Users can dynamically explore the dashboard using slicers for:
 
@@ -119,7 +106,7 @@ Education Level
 Risk Category  
 Visualizations  
 
-The dashboard contains:
+## The dashboard contains:
 
 AI Risk by Industry  
 Job Growth by Industry  
