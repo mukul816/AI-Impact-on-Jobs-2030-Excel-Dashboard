@@ -14,7 +14,7 @@ This project demonstrates practical business intelligence and data analytics ski
 
 With increasing AI adoption, organizations face critical questions regarding the future of work:
 
-Which industries are most vulnerable to AI-driven automation?
+Which industries are most vulnerable to AI-driven automation?  
 Which occupations are likely to remain in demand?
 How will AI influence salary levels across professions?
 What percentage of jobs face high automation risk?
