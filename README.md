@@ -97,16 +97,21 @@ Dashboard Components
 
 KPI Cards
 
-# The dashboard includes four key performance indicators:
+## The dashboard includes four key performance indicators:
 
 KPI	Value
+
 Total Jobs Analyzed	3,000
+
 Average AI Risk	50.3%
+
 Average Salary	$1,266,417
+
 High-Risk Jobs	887
+
 Interactive Filters
 
-# Users can dynamically explore the dashboard using slicers for:
+## Users can dynamically explore the dashboard using slicers for:
 
 Industry
 Country
@@ -114,15 +119,15 @@ Education Level
 Risk Category
 Visualizations
 
-# The dashboard contains:
+## The dashboard contains:
 
 AI Risk by Industry
 Job Growth by Industry
 Salary by Job Title
 Risk Category Distribution
 
-## Results and Insights
-# Dashboard Overview
+# Results and Insights
+## Dashboard Overview
 
 The dashboard analyzes the potential impact of Artificial Intelligence on 3,000 jobs across multiple industries, countries, education levels, and risk categories. The analysis focuses on AI replacement risk, projected job growth, salary distribution, and workforce vulnerability to automation.
 
@@ -135,8 +140,8 @@ Average Salary: $1,266,417
 
 High-Risk Jobs: 887
 
-## Industry Analysis
-# AI Risk by Industry
+# Industry Analysis
+## AI Risk by Industry
 
 The analysis reveals notable differences in AI replacement risk across industries.
 
