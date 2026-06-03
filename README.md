@@ -29,15 +29,25 @@ Source: Kaggle
 The dataset contains information related to:
 
 Job Titles
+
 Industries
+
 Countries
+
 Education Levels
+
 Years of Experience
+
 Average Salary (USD)
+
 AI Replacement Risk
+
 Future Demand Score
+
 Job Growth Projections
+
 Work Hours
+
 Job Satisfaction Metrics
 
 Dataset Size: 3,000 Records
@@ -46,27 +56,45 @@ https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-mar
 
 ## Tools & Technologies
 Microsoft Excel
+
 Data Cleaning
+
 Data Preprocessing
+
 Pivot Tables
+
 Pivot Charts
+
 KPI Cards
+
 Interactive Slicers
+
 Dashboard Design
+
 Business Intelligence Reporting
+
 Data Cleaning & Preparation
 
 # The dataset was prepared for analysis through the following steps:
 
 Removed duplicate records
+
 Standardized categorical variables
+
 Validated numerical values
+
 Handled inconsistent formatting
+
 Created derived analytical variables
+
 Categorized jobs into AI Risk Levels
+
 Categorized workforce demand segments
+
 Prepared analysis-ready tables for dashboard reporting
+
 Dashboard Components
+
 KPI Cards
 
 # The dashboard includes four key performance indicators:
@@ -100,17 +128,24 @@ The dashboard analyzes the potential impact of Artificial Intelligence on 3,000 
 
 Key Performance Indicators (KPIs)
 Total Jobs Analyzed: 3,000
+
 Average AI Replacement Risk: 50.3%
+
 Average Salary: $1,266,417
+
 High-Risk Jobs: 887
+
 ## Industry Analysis
 # AI Risk by Industry
 
 The analysis reveals notable differences in AI replacement risk across industries.
 
 Finance has the highest AI replacement risk at 53.05%.
-Government follows closely with 52.88%.
+
+Government follows closely with 52.88%
+.
 Technology records an AI risk of 51.74%.
+
 Healthcare has the lowest AI replacement risk at 47.52%.
 
 These findings suggest that industries with routine, data-driven, and repetitive processes are more vulnerable to AI-driven automation.
@@ -120,8 +155,11 @@ These findings suggest that industries with routine, data-driven, and repetitive
 Despite increasing automation, all industries show positive projected job growth.
 
 Finance demonstrates the highest projected growth (18.57%).
+
 Government follows with 18.28%.
+
 Transportation records 18.01% growth.
+
 Healthcare has the lowest projected growth (15.88%).
 
 This indicates that AI is more likely to transform job roles than completely eliminate employment opportunities.
@@ -133,9 +171,13 @@ The salary distribution highlights strong earning potential across a variety of 
 Top-paying job roles include:
 
 HR Specialist – $1,318,817
+
 IoT Specialist – $1,304,848
+
 Teacher – $1,297,943
+
 Product Manager – $1,290,524
+
 UX Designer – $1,280,833
 
 Other highly paid positions include AI Engineer, Healthcare Analyst, Prompt Engineer, Robotics Engineer, and Machine Learning Engineer.
@@ -147,7 +189,9 @@ The salary range varies from approximately $1.12 million to $1.32 million, indic
 The workforce is distributed across AI risk categories as follows:
 
 Low Risk: 38%
+
 Medium Risk: 32%
+
 High Risk: 30%
 
 Although a significant share of jobs faces high automation risk, the majority of occupations remain within low- and medium-risk categories, suggesting that human skills will continue to play an important role in the future workforce.
