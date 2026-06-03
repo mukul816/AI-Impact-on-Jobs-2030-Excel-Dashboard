@@ -10,7 +10,7 @@ Using Microsoft Excel, I performed end-to-end data analysis, including data clea
 
 This project demonstrates practical business intelligence and data analytics skills that can be applied to real-world workforce planning and strategic decision-making.
 
-# Business Problem
+## Business Problem
 
 With increasing AI adoption, organizations face critical questions regarding the future of work:
 
@@ -22,7 +22,7 @@ Which industries are expected to grow despite technological disruption?
 
 The objective of this project is to transform raw employment data into actionable insights that support workforce planning, talent management, and strategic business decisions.
 
-# Dataset Information
+## Dataset Information
 
 Source: Kaggle
 
@@ -44,7 +44,7 @@ Dataset Size: 3,000 Records
 
 https://www.kaggle.com/datasets/muhammadwaqas023/ai-impact-in-future-on-jobs-market-in-2030
 
-# Tools & Technologies
+## Tools & Technologies
 Microsoft Excel
 Data Cleaning
 Data Preprocessing
@@ -56,7 +56,7 @@ Dashboard Design
 Business Intelligence Reporting
 Data Cleaning & Preparation
 
-The dataset was prepared for analysis through the following steps:
+# The dataset was prepared for analysis through the following steps:
 
 Removed duplicate records
 Standardized categorical variables
@@ -69,7 +69,7 @@ Prepared analysis-ready tables for dashboard reporting
 Dashboard Components
 KPI Cards
 
-The dashboard includes four key performance indicators:
+# The dashboard includes four key performance indicators:
 
 KPI	Value
 Total Jobs Analyzed	3,000
@@ -78,7 +78,7 @@ Average Salary	$1,266,417
 High-Risk Jobs	887
 Interactive Filters
 
-Users can dynamically explore the dashboard using slicers for:
+# Users can dynamically explore the dashboard using slicers for:
 
 Industry
 Country
@@ -86,15 +86,15 @@ Education Level
 Risk Category
 Visualizations
 
-The dashboard contains:
+# The dashboard contains:
 
 AI Risk by Industry
 Job Growth by Industry
 Salary by Job Title
 Risk Category Distribution
 
-# Results and Insights
-Dashboard Overview
+## Results and Insights
+# Dashboard Overview
 
 The dashboard analyzes the potential impact of Artificial Intelligence on 3,000 jobs across multiple industries, countries, education levels, and risk categories. The analysis focuses on AI replacement risk, projected job growth, salary distribution, and workforce vulnerability to automation.
 
@@ -103,8 +103,8 @@ Total Jobs Analyzed: 3,000
 Average AI Replacement Risk: 50.3%
 Average Salary: $1,266,417
 High-Risk Jobs: 887
-Industry Analysis
-AI Risk by Industry
+## Industry Analysis
+# AI Risk by Industry
 
 The analysis reveals notable differences in AI replacement risk across industries.
 
@@ -115,7 +115,7 @@ Healthcare has the lowest AI replacement risk at 47.52%.
 
 These findings suggest that industries with routine, data-driven, and repetitive processes are more vulnerable to AI-driven automation.
 
-Job Growth by Industry
+# Job Growth by Industry
 
 Despite increasing automation, all industries show positive projected job growth.
 
@@ -126,7 +126,7 @@ Healthcare has the lowest projected growth (15.88%).
 
 This indicates that AI is more likely to transform job roles than completely eliminate employment opportunities.
 
-Salary Analysis
+# Salary Analysis
 
 The salary distribution highlights strong earning potential across a variety of occupations.
 
@@ -142,7 +142,7 @@ Other highly paid positions include AI Engineer, Healthcare Analyst, Prompt Engi
 
 The salary range varies from approximately $1.12 million to $1.32 million, indicating relatively balanced compensation across job categories in the dataset.
 
-Risk Category Distribution
+# Risk Category Distribution
 
 The workforce is distributed across AI risk categories as follows:
 
