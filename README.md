@@ -1,6 +1,6 @@
 # AI-Impact-on-Jobs-2030-Excel-Dashboard
 ## Dashboard Preview
-![AI Impact on Jobs 2030](Dashboard.png)
+![dashboard](https://github.com/mukul816/AI-Impact-on-Jobs-2030-Excel-Dashboard/blob/main/AI%20Impact%20on%20Jobs%20%202030/Dashboard.png)
 
 ##Project Overview
 
